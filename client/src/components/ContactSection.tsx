@@ -177,8 +177,8 @@ export default function ContactSection() {
                   {
                     icon: Instagram,
                     label: "Instagram",
-                    value: "@bossladyspourdecision",
-                    href: "https://instagram.com/bossladyspourdecision",
+                    value: "@bossladys_pour_decision",
+                    href: "https://instagram.com/bossladys_pour_decision",
                   },
                   {
                     icon: MapPin,
@@ -252,7 +252,7 @@ export default function ContactSection() {
                 Stay updated with our latest events, cocktail creations, and behind-the-scenes moments.
               </p>
               <a
-                href="https://instagram.com/bossladyspourdecision"
+                href="https://instagram.com/bossladys_pour_decision"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm font-bold tracking-wider uppercase transition-all duration-300"
@@ -269,7 +269,7 @@ export default function ContactSection() {
                 }}
               >
                 <Instagram size={16} />
-                @bossladyspourdecision
+                @bossladys_pour_decision
               </a>
             </div>
           </div>

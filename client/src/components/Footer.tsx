@@ -66,7 +66,7 @@ export default function Footer() {
             {/* Social Icons */}
             <div className="flex gap-3 mt-2">
               {[
-                { icon: Instagram, href: "https://instagram.com/bossladyspourdecision", label: "Instagram" },
+                { icon: Instagram, href: "https://instagram.com/bossladys_pour_decision", label: "Instagram" },
                 { icon: Mail, href: "mailto:bossladypourdecision@gmail.com", label: "Email" },
                 { icon: Phone, href: "tel:+18045197640", label: "Phone" },
               ].map(({ icon: Icon, href, label }) => (
@@ -147,7 +147,7 @@ export default function Footer() {
               {[
                 { icon: Phone, value: "(804) 519-7640", href: "tel:+18045197640" },
                 { icon: Mail, value: "bossladypourdecision@gmail.com", href: "mailto:bossladypourdecision@gmail.com" },
-                { icon: Instagram, value: "@bossladyspourdecision", href: "https://instagram.com/bossladyspourdecision" },
+                { icon: Instagram, value: "@bossladys_pour_decision", href: "https://instagram.com/bossladys_pour_decision" },
               ].map(({ icon: Icon, value, href }) => (
                 <a
                   key={value}
