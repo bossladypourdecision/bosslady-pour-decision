@@ -177,8 +177,8 @@ export default function ContactSection() {
                   {
                     icon: Instagram,
                     label: "Instagram",
-                    value: "@bossladys_pour_decision",
-                    href: "https://instagram.com/bossladys_pour_decision",
+                    value: "@bossladyspourdecision",
+                    href: "https://instagram.com/bossladyspourdecision",
                   },
                   {
                     icon: MapPin,
