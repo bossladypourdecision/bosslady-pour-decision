@@ -252,7 +252,7 @@ export default function ContactSection() {
                 Stay updated with our latest events, cocktail creations, and behind-the-scenes moments.
               </p>
               <a
-                href="https://instagram.com/bossladys_pour_decision"
+                href="https://instagram.com/bossladyspourdecision"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm font-bold tracking-wider uppercase transition-all duration-300"
